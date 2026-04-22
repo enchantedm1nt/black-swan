@@ -1,0 +1,48 @@
+# ==========================================
+# Algemene regels voor zoekmachines
+# ==========================================
+User-agent: *
+Allow: /
+
+# ==========================================
+# Blokkeer AI Scrapers (ChatGPT, Gemini, etc.)
+# ==========================================
+
+# OpenAI (ChatGPT)
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+
+# Google Gemini / Bard
+User-agent: Google-Extended
+Disallow: /
+
+# Anthropic (Claude)
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+
+# Common Crawl (Veel gebruikt voor AI training data)
+User-agent: CCBot
+Disallow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Disallow: /
+
+# Facebook AI
+User-agent: FacebookBot
+Disallow: /
+
+# Andere bekende crawlers voor AI-doeleinden
+User-agent: Omgilibot
+Disallow: /
+User-agent: Omgili
+Disallow: /
+
+# ==========================================
+# Sitemap locatie
+# ==========================================
+Sitemap: https://blog.jesperwelagen.nl/sitemap.xml
