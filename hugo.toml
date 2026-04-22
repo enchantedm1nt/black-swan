@@ -1,0 +1,22 @@
+baseURL = "https://blog.jesperwelagen.nl/"
+languageCode = "nl-nl"
+title = "Black Swan"
+theme = "explore"
+
+[params]
+    description = "Daar klopt statistisch gezien toch geen ene reet van?"
+    author = "Jesper Welagen"
+
+[menu]
+  [[menu.main]]
+    name = "Artikelen"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "Over"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
