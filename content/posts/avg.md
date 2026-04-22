@@ -15,9 +15,9 @@ Wat mij betreft is dit een van de onderschatte artikelen in de hele verordening.
 * Het risico: Wordt je lening/hypotheek geweigerd? Is je verzekeringspremie gestegen? Zie je ineens specifieke advertenties niet meer (of juist wel)? Vaak besluit een algoritme daar over op basis van jouw persoonlijke gegevens. Soms worden er zelfs gegevens gebruikt die niet eens gebruikt mogen worden voor een risico-analyse, en zonder dat je er van weet.
 * De oplossing: Door je rechten uit te oefenen onder artikel 22 van de AVG kun je eisen dat er 'betekenisvolle menselijke tussenkomst' plaatsvindt. Zodra je deze eis doorgeeft aan een bedrijf of overheidsorganisatie, mogen ze je lot niet zomaar overlaten aan een zwarte doos als dat significante rechtsgevolgen heeft. Nu zal een mens altijd de doorslag moeten geven.
 
-{{</ callout type="info" />}}
+{{</* callout type="info" */>}}
 **Let op:** Hoewel je altijd mag eisen om niet te worden beoordeeld door algoritmen of AI, kan een organisatie daar niet altijd op acteren. Het kan namelijk zijn dat er wettelijke grondslagen in de AVG, UAVG of andere van toepassing zijnde wetten in strijd zijn met jouw eis. Heb je hier vragen over? Dan kun je mij altijd een mailtje sturen.
-{{</ /callout />}}
+{{</* /callout */>}}
 
 ## Ga je ergens weg? Laat de instantie jou 'vergeten'!
 De AVG biedt middels artikel 17 het zogenaamde recht op vergetelheid. Als bedrijven jouw data bewaren voor 'het geval dat', kan je met de AVG zeggen: opzouten! Als de gegevens niet meer strikt noodzakelijk zijn voor het oorspronkelijke doel, moeten ze het wissen. Een webshop waar je drie jaar geleden een paar schoenen hebt gekocht, heeft geen enkele juridische voet om op te staan als ze jouw data nog hebben. Een dikke tip is dus: ben je ergens geen klant meer? Dien een artikel 17 verzoek in! Denk aan internetproviders, webwinkels, energiebedrijven, etc.
@@ -50,7 +50,7 @@ Hier staan linkjes naar enkele voorbeeldbrieven die ik heb geschreven. Kies de j
 * Brief 2
 * Brief 3
 
-{{</ callout type="info" />}}
+{{</* callout type="info" */>}}
 ## Mijn eigen verzoeken
 Ik heb op maandag 20 april 2026 meerdere artikel 15 en 22 verzoeken gestuurd naar een stuk of acht organisaties. Op deze website publiceer ik al mijn bevindingen en de resultaten, dus hou deze website in de gaten (ja, ook voor die ene ambtenaar die nu mijn verzoek in behandeling heeft ;) ) 
-{{</ /callout />}}
+{{</* /callout */>}}
