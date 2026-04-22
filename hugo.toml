@@ -3,10 +3,6 @@ languageCode = "nl-nl"
 title = "Black Swan"
 theme = "explore"
 
-[params]
-    description = "Daar klopt statistisch gezien toch geen ene reet van?"
-    author = "Jesper Welagen"
-
 [menu]
   [[menu.main]]
     name = "Artikelen"
