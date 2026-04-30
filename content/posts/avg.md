@@ -3,6 +3,7 @@ date = '2026-04-22T21:21:38+02:00'
 draft = false
 title = 'Digitale zelfverdediging voor de consument.'
 toc = false
+tags = ["privacy"]
 +++
 
 De digitale overheid (en overigens ook de digitale bedrijfsvoering) wordt vaak gepresenteerd als efficiënt, neutraal en bovenal onvermijdelijk. Besluiten worden sneller genomen, systemen worden slimmer en data wordt zowat de nieuwe fundering onder beleid. Achter die beloftes schuilt echter een minder jofele realiteit: burgers verliezen steeds vaker het zich op hoe besluiten tot stand komen, welke gegevens worden gebruikt en hoe lang die worden bewaard. Je zou kunnen zeggen dat de macht subtiel aan het verschuiven is van duidelijk zichtbare regels naar onzichtbare vage processen. Denk maar eens na: hoe schat de bank je in als risico? Welke gegevens daarvoor worden gebruikt weet je waarschijnlijk al niet eens.
@@ -94,6 +95,8 @@ Daarom is timing en formulering cruciaal. Een effectief traject ziet er grofweg 
 
 Dit is geen escalatie om de escalatie, maar een manier om het systeem te laten doen waarvoor het bedoeld is: verantwoording afdwingen.
 
+{{< callout type="warning" >}} Let er op dat de Algemene wet bestuursrecht alleen van toepassing is op overheidsinstanties. Bij bijvoorbeeld de ING kun je niet zomaar een dwangsom eisen als de termijn overschreden wordt, maar wel bij o.a. de Belastingdienst, DUO, of het UWV. {{< /callout >}}
+
 ## Dataminimalisatie
 
 Inzicht krijgen in je gegevens is stap één. Afdwingen dat organisaties reageren is stap twee. Maar de vraag die daarna komt is fundamenteler: waarom wordt al die data überhaupt bewaard?
@@ -175,22 +178,3 @@ De uitkomsten van deze verzoeken deel ik in een toekomstig blogartikel, waarschi
 * De manier waarop organisaties omgaan met vervolgvragen of bezwaar.
 
 Op die manier ontstaat geen losse verzameling ervaringen, maar een vergelijkbare dataset van hoe verschillende typen organisaties omgaan met dezelfde juridische verplichtingen.
-
-### Voorbeeldbrieven
-
-Algemeen inzageverzoek (Artikel 15 AVG)
-Voor het opvragen van alle verwerkte persoonsgegevens, inclusief herkomst, doeleinden en eventuele doorgifte aan derden.
-
-Verzoek om uitleg over geautomatiseerde besluitvorming (Artikel 22 AVG)
-Gericht op situaties waarin algoritmes, risicoprofielen of geautomatiseerde beoordelingen een rol spelen in beslissingen.
-
-Verzoek tot gegevenswissing (Artikel 17 AVG)
-Voor het laten verwijderen van gegevens, inclusief onderliggende of afgeleide data waar mogelijk.
-
-Verzoek richting overheidsorganisaties (AVG + Awb-context)
-Met extra nadruk op besluitvorming, motivering en procedurele termijnen onder de Algemene wet bestuursrecht.
-
-Verzoek richting commerciële partijen
-Gericht op dataverwerking binnen apps, platformen en dienstverleners, met focus op profilering en bewaartermijnen.
-
-Elke brief wordt zo opgesteld dat deze direct herbruikbaar is, maar ook aanpasbaar voor specifieke situaties. Het doel is niet om één standaardtekst te bieden, maar om een set bouwstenen te maken waarmee je gericht kunt schakelen afhankelijk van de organisatie en het type data dat je wilt opvragen.
