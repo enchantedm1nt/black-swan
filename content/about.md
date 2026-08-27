@@ -7,7 +7,7 @@ title = 'Over Black Swan'
 Welkom bij Black Swan, mijn persoonlijke blog waar ik schrijf over dingen die mij bezig houden. Van luchtige opinies en matige satire tot uitgebreide analyse van systemen, wetten en politiek: het staat allemaal hier. De blog heeft geen specifiek thema, maar privacy komt vaker terug dan je denkt.
 
 ### Wie zit er achter Black Swan?
-Mijn naam is Jesper Welagen. Als student Bestuurskunde aan de Hogeschool van Amsterdam kijk ik met een kritische, maar praktische blik naar de wereld om me heen, en soms is er natuurlijk ook plaats voor een goede dosis humor! Ik ben gefascineerd door de 'machinekamer' van de overheid: hoe komen besluiten tot stand? En om maar in de voetsporen van Jan Schaefer te stappen; is dit beleid, of is hier over nagedacht?
+Mijn naam is Jesper Welagen. Als student Built Environment aan de Hogeschool van Amsterdam kijk ik met een kritische, maar praktische blik naar de wereld om me heen, en soms is er natuurlijk ook plaats voor een goede dosis humor! Ik ben gefascineerd door de 'machinekamer' van de overheid: hoe komen besluiten tot stand? En om maar in de voetsporen van Jan Schaefer te stappen; is dit beleid, of is hier over nagedacht?
 
 ### Licentie en hergebruik (copyright)
 Ik geloof in het delen van kennis en feiten. Daarom valt alle content op deze website onder de Creative Commons BY-NC-SA 4.0-licentie. Dat houdt praktisch het volgende in:
