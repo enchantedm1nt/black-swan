@@ -1,5 +1,5 @@
 +++
-date = '2026-09-07T21:21:38+02:00'
+date = '2026-09-07T19:21:38+02:00'
 draft = false
 title = 'Weet de HvA wanneer je dood gaat?'
 toc = false
