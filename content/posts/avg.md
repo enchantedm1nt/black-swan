@@ -1,6 +1,6 @@
 +++
 date = '2026-04-22T21:21:38+02:00'
-draft = false
+draft = true
 title = 'Digitale zelfverdediging voor de consument.'
 toc = false
 tags = ["privacy"]
