@@ -1,6 +1,6 @@
 +++
 date = '2026-09-07T21:21:38+02:00'
-draft = true
+draft = false
 title = 'Weet de HvA wanneer je dood gaat?'
 toc = false
 tags = ["privacy"]
