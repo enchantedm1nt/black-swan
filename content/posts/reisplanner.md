@@ -1,7 +1,7 @@
 +++
 date = '2026-09-10T19:22:38+02:00'
 draft = false
-title = 'Een sessie bij de relatietherapeut, met m'n reisplanner.'
+title = 'Een sessie bij de relatietherapeut, met mijn reisplanner.'
 toc = false
 categories = ["humor"]
 tags = ["openbaar vervoer"]
